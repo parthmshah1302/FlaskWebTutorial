@@ -9,9 +9,14 @@
 > A basic notes app using Flask with Login and Database (delete function is WIP)
 
 ## Install
-
+```sh
+git clone https://github.com/parthmshah1302/FlaskWebTutorial
+```
 ```sh
 pip install -r requirements.txt
+```
+```sh
+python app.py
 ```
 
 ## Author
