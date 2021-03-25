@@ -19,7 +19,7 @@ cd FlaskWebTutorial
 pip install virtualenv
 ```
 ```sh
-python -m virtualenv venv
+python -m virtualenv env
 ```
 ```sh
 .\env\Scripts\activate  
