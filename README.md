@@ -13,6 +13,18 @@
 git clone https://github.com/parthmshah1302/FlaskWebTutorial
 ```
 ```sh
+cd FlaskWebTutorial
+```
+```sh
+pip install virtualenv
+```
+```sh
+python -m virtualenv venv
+```
+```sh
+.\env\Scripts\activate  
+```
+```sh
 pip install -r requirements.txt
 ```
 ```sh
